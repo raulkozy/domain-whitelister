@@ -34,7 +34,7 @@ export class listOrdersQueryDto {
 export class orderListRs {
   id: string;
   orderId: string;
-  urlSale: string;
+  urlOfSale: string;
   price: number;
   currency: number;
   productIds: string[];

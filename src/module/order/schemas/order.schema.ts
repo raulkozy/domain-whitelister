@@ -23,7 +23,7 @@ export class Order {
   price: string;
 
   @Prop({ required: true })
-  urlSale: string;
+  urlOfSale: string;
 }
 
 export const OrderSchema = SchemaFactory.createForClass(Order);

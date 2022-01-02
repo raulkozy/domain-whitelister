@@ -5,7 +5,7 @@ export class orderMapper {
     return {
       id: order._id,
       orderId: order.orderId,
-      urlSale: order.urlSale,
+      urlOfSale: order.urlOfSale,
       price: order.price,
       currency: order.currency,
       productIds: [...order.productIds],
