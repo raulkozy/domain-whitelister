@@ -1,8 +1,8 @@
 {
   "name": "domain-whitelister",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "This application is developed as a part of coding challenge for ejam. It should not be used for any commercial purpose",
+  "author": "Rahul kohli",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
